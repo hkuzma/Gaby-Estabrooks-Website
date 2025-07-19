@@ -1,0 +1,28 @@
+body{
+        background-color: rgb(239, 241, 238);
+
+
+}
+main{
+    position: relative;
+    left: 2vw;
+    right: 5vw;
+    width: 93vw;
+    height: 100vh;
+}
+
+
+.main-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+}
+
+h1{
+    width: 50vw;
+    overflow-wrap: break-word;
+    font-family: Arial;
+}
+
+Image{}
